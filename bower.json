@@ -1,0 +1,20 @@
+{
+  "name": "my first boostrap project",
+  "homepage": "https://github.com/liz0k/ProjectOne",
+  "description": "las saladitas son horneadas",
+  "main": "index.html",
+  "authors": [
+    "liz karen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
